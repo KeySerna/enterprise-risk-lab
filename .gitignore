@@ -1,0 +1,9 @@
+﻿node_modules/
+dist/
+target/
+.env
+.env.local
+*.local
+.idea/
+.vscode/
+nbproject/
